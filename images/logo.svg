@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="122px" viewBox="0 0 100 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Logo</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C644FC" offset="0%"></stop>
+            <stop stop-color="#5856D6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Egg-Logo" sketch:type="MSArtboardGroup" transform="translate(-210.000000, -198.000000)" fill="url(#linearGradient-1)">
+            <path d="M259.749457,198 C274.154876,198 285.068614,205.885098 293,215.874799 L216,233 C223.429022,214.749908 237.386789,198 259.749457,198 Z M298.315402,224 C302.231558,230.887645 305.092028,238.40326 307,245.545297 L210.069453,268 C210.028773,266.883274 210,265.762542 210,264.633798 C210,258.992079 210.32246,251.503505 212.507252,243.568242 L298.315402,224 Z M310,266.234295 C310,270.364027 309.707482,274.420526 309.121454,278.348373 L217.911358,299 C214.010457,292.708913 212.236508,285.351994 211,277.452756 L308.966767,255 C309.664844,259.159421 310,262.991273 310,266.234295 Z M259.617675,320 C243.733256,320 232.086143,314.419796 224,306.488736 L307,288 C301.05044,306.858057 286.323461,320 259.617675,320 Z" id="Logo" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,52 @@
+body {
+    text-align:center;
+    margin:50px auto;
+    font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+    font-weight:400;
+    font-style:normal
+}
+strong {font-weight:700}
+h1 {position:fixed; left:-9999px}
+h2 {
+    font-size:13px;
+    font-weight:400;
+    margin-bottom:50px;
+    color:#b0aeb3
+}
+.icon {
+    margin-bottom:50px;
+    height:122px;
+    width:100px}
+.description {
+    font-size:20px;
+    color:#393540;
+    line-height:1.5;
+    margin:0 0 50px
+}
+.products {
+    display:inline-block;
+    margin-bottom:50px;
+    max-width: 400px;
+}
+.appstore {
+    display:inline-block;
+    width:90px; height:90px;}
+.appstore+.appstore{
+    margin-left:30px}
+.appstore img{
+    width:100%;
+    height:100%;
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #E5E5E5;
+}
+.button{
+    cursor:pointer;
+    text-decoration:none;
+}
+footer {
+    color:#5F5F5F;
+    font-size:13px
+}
+footer a{color:#b0aeb3}
