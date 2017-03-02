@@ -30,7 +30,7 @@ h2 {
 }
 .appstore {
     display:inline-block;
-    width:23%;}
+    width:20%;}
 .appstore+.appstore{
     margin-left:5%}
 .appstore img{
